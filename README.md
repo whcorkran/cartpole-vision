@@ -1,4 +1,4 @@
-# Speedracer RL: Vision-Based CartPole Control
+# Vision-Based CartPole Control
 
 A reinforcement learning project that trains SAC agents on CartPole using both ground-truth state observations and vision-based control via a CNN encoder.
 
